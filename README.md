@@ -83,7 +83,15 @@ five real inconsistencies were caught and corrected before drawing conclusions:
 - **Customer** — repeat vs. one-time customers, top spenders, feedback sentiment
 - **Marketing** — spend/revenue/ROAS KPIs, channel performance, monthly trend
 
-*(Add dashboard screenshots or a Power BI Service link here once published.)*
+<img width="1381" height="1017" alt="Screenshot 2026-09-22 120410" src="https://github.com/user-attachments/assets/3d980a27-6483-4bb9-af50-7829dd31cf10" />
+<img width="1907" height="1032" alt="Screenshot 2026-09-22 120400" src="https://github.com/user-attachments/assets/4e0b128e-1811-4089-95b6-7c8d68e672fa" />
+<img width="1230" height="932" alt="Screenshot 2026-09-22 120418" src="https://github.com/user-attachments/assets/0b9bcd0f-7cb6-4165-86cf-25d071b45479" />
+<img width="1307" height="998" alt="Screenshot 2026-09-22 120426" src="https://github.com/user-attachments/assets/efefc7fd-2467-4049-a823-eb6a79dcff44" />
+<img width="1341" height="1026" alt="Screenshot 2026-09-22 120444" src="https://github.com/user-attachments/assets/44250c26-fb10-401b-adc2-63a3f4500e1a" />
+
+
+
+
 
 ## 💡 What this project demonstrates
 - End-to-end pipeline ownership: raw data → cleaning → SQL analysis → BI dashboard
